@@ -1,5 +1,5 @@
 {
-  "name": "consolidate",
+  "name": "tsj-consolidate",
   "description": "Template engine consolidation library",
   "version": "0.15.1",
   "homepage": "https://github.com/tj/consolidate.js",
