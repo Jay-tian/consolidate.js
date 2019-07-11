@@ -1,7 +1,7 @@
 # Consolidate.js
-
   Template engine consolidation library.
-
+  支持twig引擎，异步扩展方法
+  support twig async function extension
 ## Installation
 
     $ npm install consolidate
