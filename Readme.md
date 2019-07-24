@@ -2,6 +2,9 @@
   Template engine consolidation library.
   支持twig引擎，异步扩展方法
   support twig async function extension
+
+  新增twig引擎命名空间
+  support twig namespaces
 ## Installation
 
     $ npm install consolidate
